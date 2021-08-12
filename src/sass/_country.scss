@@ -1,0 +1,27 @@
+.render-country {
+  display: flex;
+  align-items: center;
+}
+
+.name-country {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.header-name {
+  font-size: 30px;
+  font-weight: 900;
+  margin-left: 20px;
+}
+
+.header-country {
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+.text-country {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 10px;
+}
